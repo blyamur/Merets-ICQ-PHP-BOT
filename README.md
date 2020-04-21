@@ -13,11 +13,18 @@ Launching can be done either manually or on a schedule via Cron
 
 ### photosession.tips
 Photosession.tips API Description \ Описание API Photosession.tips: [https://photosession.tips/page/api/](https://photosession.tips/page/api/)
+
 Key receipt \ Получение ключа: [https://photosession.tips/open_api/](https://photosession.tips/open_api/)
 
 ### ICQ 
 ICQ API Description \ Описание API ICQ: [https://icq.com/botapi/](https://icq.com/botapi/) 
+
 Key receipt \ Получение ключа:[https://icq.com/botapi/botTutorial.html](https://icq.com/botapi/botTutorial.html) 
 
 The author does not pretend to be correct code, its purity, etc. This example is laid out as an example of the possibility of collaboration between photosession.tips and ICQ
 >Автор не претендует на правильность кода, его чистоту и пр. Данный пример выложен в качестве иллюстрации примера возможности совместной работы сайта photosession.tips и ICQ
+
+*Thanks for reading :heart_eyes_cat:*
+> Спасибо за чтение!
+
+~Mons
