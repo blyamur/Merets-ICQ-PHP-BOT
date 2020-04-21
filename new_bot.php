@@ -17,8 +17,8 @@ $idea_image_src = 'https:' . $res->image_src; # ссылка на пример �
 
 
 $icq_bot_token = ''; # ICQ токен (https://icq.com/botapi/botTutorial.html)
-$icq_chatId = 'photosession.tips'; # название канала,куда производится постинг
-$icq_bot_text = 'Идея для фотографии! @photosession.tips «' . $idea_message . '» '; # текст описание для изображения
+$icq_chatId = ''; # название канала,куда производится постинг без @
+$icq_bot_text = ' «' . $idea_message . '» '; # текст описание для изображения
 $postdata = array(
 				'token' => $icq_bot_token,
 				'chatId' => $icq_chatId,
