@@ -16,7 +16,7 @@ Photosession.tips API Description \ Описание API Photosession.tips: [htt
 
 Key receipt \ Получение ключа: [https://photosession.tips/open_api/](https://photosession.tips/open_api/)
 
-### ICQ 
+### ICQ info
 ICQ API Description \ Описание API ICQ: [https://icq.com/botapi/](https://icq.com/botapi/) 
 
 Key receipt \ Получение ключа:[https://icq.com/botapi/botTutorial.html](https://icq.com/botapi/botTutorial.html) 
