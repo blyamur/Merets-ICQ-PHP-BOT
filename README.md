@@ -2,6 +2,9 @@
 Мерец - простейший ICQ бот на PHP, для постинга в ICQ случайных идей из photosession.tips
 
 [![Made With](https://img.shields.io/badge/made_with-php-blue)](https://github.com/blyamur/Merets-ICQ-PHP-BOT-for-photosession.tips)
+[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://paypal.me/enkonu)
+[![Open Source Software](https://img.shields.io/badge/open_source-🤍-3DA639.svg)](https://github.com/blyamur/Merets-ICQ-PHP-BOT-for-photosession.tips)
+
 
 The principle of operation is simple. When you open the file, a request is made to the site photosession.tips, in response comes a randomly selected idea and an illustration for it. Next, a record is formed and sent to ICQ, the group you specified.
 >Принцип работы прост. При открытии файла, делается запрос на сайт photosession.tips, в ответ приходит случайным образом выбранная идея и иллюстрация к ней. Далее формируется запись и отправляется в ICQ,  указанную вами группу.  
