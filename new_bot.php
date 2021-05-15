@@ -4,7 +4,6 @@ header("content-type: text/html; charset: UTF-8");
 ## Блок настроек photosession.tips
 # https://photosession.tips/page/api/
 
-
 $url = 'https://photosession.tips/api/api.php?'; #Ссылка на запрос к сервису
 $type = 'bot'; # тип запроса к сервису
 $apikey = ''; # ваш API ключ сервиса  (https://photosession.tips/open_api/)
@@ -14,7 +13,6 @@ $idea_message = $res->message; # текст с идеей
 $idea_image_src = 'https:' . $res->image_src; # ссылка на пример фотографии
 ## Блок настроек ICQ
 # https://icq.com/botapi/
-
 
 $icq_bot_token = ''; # ICQ токен (https://icq.com/botapi/botTutorial.html)
 $icq_chatId = ''; # название канала,куда производится постинг без @
