@@ -28,14 +28,14 @@ Key receipt \ Получение ключа:[https://icq.com/botapi/botTutorial.
 
 The author does not pretend to be correct code, its purity, etc. This example is laid out as an example of the possibility of collaboration between photosession.tips and ICQ
 >Автор не претендует на правильность кода, его чистоту и пр. Данный пример выложен в качестве иллюстрации примера возможности совместной работы сайта photosession.tips и ICQ
-
+<!--
 ### Did you find this useful?!
 > Вы нашли это  полезным ?!
 
 Happy to hear that :) *If You want to help me, you can buy me a cup of cup of coffee ( [yoomoney](https://yoomoney.ru/to/41001158104834) or [PayPal](https://paypal.me/enkonu) )*
 
 > Рад это слышать :) Если вы хотите мне помочь, вы можете угостить меня чашкой кофе
-
+-->
 
 
 *Thanks for reading :heart_eyes_cat:*
