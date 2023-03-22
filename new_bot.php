@@ -2,12 +2,12 @@
 header("content-type: text/html; charset: UTF-8");
 
 ## Блок настроек photosession.tips
-# https://photosession.tips/page/api/
+# https://rawme.ru/page/api/
 
-$url = 'https://photosession.tips/api/api.php?'; #Ссылка на запрос к сервису
+$url = 'https://rawme.ru/api/api.php?'; #Ссылка на запрос к сервису
 $type = 'bot'; # тип запроса к сервису
-$apikey = ''; # ваш API ключ сервиса  (https://photosession.tips/open_api/)
-$get_idea = file_get_contents('https://photosession.tips/api/api.php?type=' . $type . '&key=' . $apikey . ''); # отправка запроса к сервису 
+$apikey = ''; # ваш API ключ сервиса  (https://rawme.ru/open_api/)
+$get_idea = file_get_contents('https://rawme.ru/api/api.php?type=' . $type . '&key=' . $apikey . ''); # отправка запроса к сервису 
 $res = json_decode($get_idea);
 $idea_message = $res->message; # текст с идеей
 $idea_image_src = 'https:' . $res->image_src; # ссылка на пример фотографии
