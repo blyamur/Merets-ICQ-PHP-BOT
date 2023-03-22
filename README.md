@@ -17,9 +17,9 @@ Launching can be done either manually or on a schedule via Cron
 >Запуск можно производить как вручную, так и по расписанию через Cron
 
 ### photosession.tips
-Photosession.tips API Description \ Описание API Photosession.tips: [https://photosession.tips/page/api/](https://photosession.tips/page/api/)
+Photosession.tips API Description \ Описание API Photosession.tips: [https://rawme.ru/page/api/](https://rawme.ru/page/api/)
 
-Key receipt \ Получение ключа: [https://photosession.tips/open_api/](https://photosession.tips/open_api/)
+Key receipt \ Получение ключа: [https://rawme.ru/open_api/](https://rawme.ru/open_api/)
 
 ### ICQ info
 ICQ API Description \ Описание API ICQ: [https://icq.com/botapi/](https://icq.com/botapi/) 
