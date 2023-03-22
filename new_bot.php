@@ -1,7 +1,7 @@
 <?php
 header("content-type: text/html; charset: UTF-8");
 
-## Блок настроек photosession.tips
+## Блок настроек rawme.ru
 # https://rawme.ru/page/api/
 
 $url = 'https://rawme.ru/api/api.php?'; #Ссылка на запрос к сервису
